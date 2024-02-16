@@ -1,3 +1,7 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/tdahlstrom/workflow-chr22-gitpod)
+
+For more information about how to use GitPod, click this [LINK](GITPOD.md)
+
 # Genomic Data Commons (GDC) Workflow
 
 This repository contains executable graphical workflows, data files, outputs, and Jupyter notebooks reported in the following pre-print:
